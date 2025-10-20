@@ -19,3 +19,6 @@
 
 - 編號 
 - 分點
+
+<img width="362" height="346" alt="image" src="https://github.com/user-attachments/assets/d08dfbd0-5237-4fce-8d53-da21395accec" />
+
