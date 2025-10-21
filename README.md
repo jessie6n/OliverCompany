@@ -10,6 +10,8 @@
 
 [google](https://google.com)
 
+[doc檔](Annotation.docx)
+
 [JAVA檔](OliverCompany/src/main/java/vo/CartTable.java)
 
 | Column 1 | Column 2 | Column 3 |
